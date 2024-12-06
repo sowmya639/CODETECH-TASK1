@@ -2,7 +2,7 @@ Name:UPPALA SOWMYA
 Company: CODETACH IT SOLUTIIONS
 ID: AugustCT12DS2134
 Domain:Machine Learning
-Duration: August to october 2024
+Duration: july to september 2024
 Mentor:
 
 
